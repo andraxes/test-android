@@ -15,7 +15,7 @@ public class XD extends ApplicationAdapter {
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
 	}
-//1
+//2
 	@Override
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
