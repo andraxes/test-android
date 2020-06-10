@@ -15,7 +15,7 @@ public class XD extends ApplicationAdapter {
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
 	}
-	//aaaa
+	//aaaaa
 
 	@Override
 	public void render () {
