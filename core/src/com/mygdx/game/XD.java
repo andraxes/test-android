@@ -16,6 +16,7 @@ public class XD extends ApplicationAdapter {
 		img = new Texture("badlogic.jpg");
 	}
 //3
+	//sibadaba
 	@Override
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
